@@ -6,8 +6,8 @@ sources:
     tables:
       - name: sales
         identifier: raw_gz_sales
-      - name: products
-        identifier: raw_gz_products 
+      - name: product
+        identifier: raw_gz_product
       - name: ship
         identifier : raw_gz_ship 
 
